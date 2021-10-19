@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNackUn&count_bg=%23F16B6F&title_bg=%233C3530&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2F2e23aa6237e34c4298c27a239f864027&count_bg=%236AAFE6&title_bg=%233C3530&icon=notion.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 👋 안녕하세요! 안드로이드 개발자 정상용(클로드)입니다.
+### Hi there 👋
 
 [![Claude's GitHub stats](https://github-readme-stats.vercel.app/api?username=NackUn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
